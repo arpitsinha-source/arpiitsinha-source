@@ -20,7 +20,7 @@ I'm **Arpit Sinha**, a first-year B.Tech Computer Science student at **RTMNU Nag
 ## 🚀 Projects
 
 ### 📍 Smart Attendance Through AI
-Live attendance web app for GNIT first-year students that automates attendance and prevents proxy marking.
+Live attendance web app for Rtmnu first-year students that automates attendance and prevents proxy marking.
 - Geofencing + blink-based liveness detection + face matching + selfie capture
 - **Tech:** JavaScript, HTML, CSS, Netlify
 <!-- TODO: add your live link here, e.g. [🔗 Live Demo](https://your-app.netlify.app) -->
